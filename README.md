@@ -14,3 +14,4 @@ The API server for COREX AI.
 
 ```bash
 go run .
+```
