@@ -1,0 +1,14 @@
+.git
+.github
+
+*.md
+
+Dockerfile
+
+tmp/
+build/
+
+.env
+
+.idea/
+.vscode/
